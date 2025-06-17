@@ -1,0 +1,1937 @@
+.frame-25,
+.frame-25 * {
+  box-sizing: border-box;
+}
+.frame-25 {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: relative;
+}
+.pagina-web {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 1370px;
+  height: 6710px;
+  position: relative;
+  overflow: hidden;
+}
+.barra {
+  background: #a05021;
+  width: 1370px;
+  height: 100px;
+  position: absolute;
+  left: 1px;
+  top: 0px;
+  overflow: hidden;
+}
+.image-36 {
+  width: 272px;
+  height: 72px;
+  position: absolute;
+  left: 43px;
+  top: 14px;
+  object-fit: cover;
+  aspect-ratio: 272/72;
+}
+.frame-2 {
+  background: #a05021;
+  border-radius: 100px;
+  width: 95px;
+  height: 31px;
+  position: absolute;
+  left: 734px;
+  top: 39px;
+  overflow: hidden;
+}
+.inicio {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 737px;
+  top: 40px;
+  width: 88px;
+  height: 27px;
+}
+.frame-3 {
+  background: #a05021;
+  border-radius: 100px;
+  width: 134px;
+  height: 35px;
+  position: absolute;
+  left: 838px;
+  top: 35px;
+  overflow: hidden;
+}
+.nosotros {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 839px;
+  top: 38px;
+  width: 134px;
+}
+.frame-4 {
+  background: #a05021;
+  border-radius: 100px;
+  width: 130px;
+  height: 35px;
+  position: absolute;
+  left: 977px;
+  top: 35px;
+  overflow: hidden;
+}
+.servicio {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 988px;
+  top: 38px;
+  width: 110px;
+  height: 31px;
+}
+.frame-5 {
+  background: #a05021;
+  border-radius: 100px;
+  width: 183px;
+  height: 40px;
+  position: absolute;
+  left: 1112px;
+  top: 31px;
+  overflow: hidden;
+}
+.contactanos {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1123px;
+  top: 37px;
+  width: 162px;
+  height: 31px;
+}
+.frame-9 {
+  background: #a05021;
+  border-radius: 100px;
+  width: 96px;
+  height: 34px;
+  position: absolute;
+  left: 619px;
+  top: 36px;
+  overflow: hidden;
+}
+.image-40 {
+  width: 33px;
+  height: 24px;
+  position: absolute;
+  left: 636px;
+  top: 40px;
+  object-fit: cover;
+  aspect-ratio: 33/24;
+}
+._0 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 673px;
+  top: 39px;
+  width: 27px;
+  height: 31px;
+}
+.rectangle-29 {
+  background: linear-gradient(
+    103.18deg,
+    rgba(160, 80, 33, 1) 2.882174029946327%,
+    rgba(255, 188, 93, 1) 49.03846085071564%,
+    rgba(244, 233, 217, 1) 100%
+  );
+  border-radius: 45px;
+  width: 1169px;
+  height: 605px;
+  position: absolute;
+  left: 100px;
+  top: 5349px;
+}
+.rectangle-19 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 671px;
+  height: 62px;
+  position: absolute;
+  left: 365px;
+  top: 5382px;
+}
+.productos-destacados {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 416px;
+  top: 5394px;
+  width: 553px;
+  height: 37px;
+}
+.rectangle-1 {
+  background: #f4e9d9;
+  border-radius: 45px;
+  width: 1159px;
+  height: 419px;
+  position: absolute;
+  left: 106px;
+  top: 195px;
+}
+.image-1 {
+  border-radius: 1px;
+  width: 433.08px;
+  height: 317px;
+  position: absolute;
+  left: 147px;
+  top: 246px;
+  object-fit: cover;
+  aspect-ratio: 433.08/317;
+}
+.bienvenido-a-market-guaypet {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 643px;
+  top: 276px;
+  width: 561px;
+  height: 38px;
+}
+.para-quien-compras-hoy {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: absolute;
+  left: 392px;
+  top: 709px;
+}
+.en-nuestra-tienda-online-encontrar-s-lo-mejor-para-tus-mascotas-desde-alimento-y-cuidado-hasta-accesorios-nicos-siempre-con-amor-y-cercan-a-env-os-r-pidos-y-atenci-n-personalizada-para-cada-especie-porque-no-son-solo-mascotas-son-familia {
+  color: #000000;
+  text-align: justified;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 685px;
+  top: 362px;
+  width: 478px;
+  height: 168px;
+}
+.rectangle-3 {
+  background: #f4e9d9;
+  border-radius: 45px;
+  width: 299px;
+  height: 236px;
+  position: absolute;
+  left: 205px;
+  top: 849px;
+}
+.rectangle-8 {
+  background: #f4e9d9;
+  border-radius: 45px;
+  width: 299px;
+  height: 236px;
+  position: absolute;
+  left: 535px;
+  top: 849px;
+}
+.image {
+  border-radius: 45px;
+  width: 220px;
+  height: 196px;
+  position: absolute;
+  left: 575px;
+  top: 869px;
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: #f4e9d9;
+  border-radius: 45px;
+  width: 299px;
+  height: 236px;
+  position: absolute;
+  left: 866px;
+  top: 849px;
+}
+.image2 {
+  border-radius: 45px;
+  width: 243px;
+  height: 196px;
+  position: absolute;
+  left: 894px;
+  top: 869px;
+  object-fit: cover;
+}
+.rectangle-10 {
+  background: #f4e9d9;
+  border-radius: 45px;
+  width: 299px;
+  height: 236px;
+  position: absolute;
+  left: 866px;
+  top: 1195px;
+}
+.image3 {
+  border-radius: 45px;
+  width: 274px;
+  height: 97px;
+  position: absolute;
+  left: 879px;
+  top: 1266px;
+  object-fit: cover;
+}
+.rectangle-11 {
+  background: #f4e9d9;
+  border-radius: 45px;
+  width: 299px;
+  height: 236px;
+  position: absolute;
+  left: 535px;
+  top: 1195px;
+}
+.image4 {
+  border-radius: 45px;
+  width: 269px;
+  height: 149px;
+  position: absolute;
+  left: 550px;
+  top: 1239px;
+  object-fit: cover;
+}
+.rectangle-12 {
+  background: #f4e9d9;
+  border-radius: 45px;
+  width: 299px;
+  height: 236px;
+  position: absolute;
+  left: 205px;
+  top: 1195px;
+}
+.image5 {
+  border-radius: 45px;
+  width: 220px;
+  height: 221px;
+  position: absolute;
+  left: 245px;
+  top: 1203px;
+  object-fit: cover;
+}
+.image6 {
+  border-radius: 45px;
+  width: 220px;
+  height: 218px;
+  position: absolute;
+  left: 245px;
+  top: 858px;
+  object-fit: cover;
+}
+.rectangle-13 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 209px;
+  height: 36px;
+  position: absolute;
+  left: 250px;
+  top: 1124px;
+}
+.ver-productos {
+  color: #ffbc5d;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 267px;
+  top: 1130px;
+  width: 176px;
+  height: 27px;
+}
+.rectangle-22 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 209px;
+  height: 36px;
+  position: absolute;
+  left: 250px;
+  top: 1479px;
+}
+.ver-productos2 {
+  color: #ffbc5d;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 267px;
+  top: 1485px;
+  width: 176px;
+  height: 27px;
+}
+.rectangle-23 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 209px;
+  height: 36px;
+  position: absolute;
+  left: 580px;
+  top: 1479px;
+}
+.ver-productos3 {
+  color: #ffbc5d;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 597px;
+  top: 1485px;
+  width: 176px;
+  height: 27px;
+}
+.rectangle-24 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 209px;
+  height: 36px;
+  position: absolute;
+  left: 907px;
+  top: 1479px;
+}
+.ver-productos4 {
+  color: #ffbc5d;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 924px;
+  top: 1485px;
+  width: 176px;
+  height: 27px;
+}
+.rectangle-21 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 209px;
+  height: 36px;
+  position: absolute;
+  left: 907px;
+  top: 1124px;
+}
+.ver-productos5 {
+  color: #ffbc5d;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 924px;
+  top: 1130px;
+  width: 176px;
+  height: 27px;
+}
+.rectangle-20 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 209px;
+  height: 36px;
+  position: absolute;
+  left: 580px;
+  top: 1124px;
+}
+.ver-productos6 {
+  color: #ffbc5d;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 597px;
+  top: 1130px;
+  width: 176px;
+  height: 27px;
+}
+.rectangle-192 {
+  background: #a05021;
+  border-radius: 90px;
+  width: 671px;
+  height: 62px;
+  position: absolute;
+  left: 349px;
+  top: 1705px;
+}
+.image-2 {
+  width: 365px;
+  height: 273px;
+  position: absolute;
+  left: 995px;
+  top: 436px;
+  mix-blend-mode: color-burn;
+  object-fit: cover;
+  aspect-ratio: 365/273;
+}
+.image-3 {
+  width: 365px;
+  height: 273px;
+  position: absolute;
+  left: 27px;
+  top: 100px;
+  mix-blend-mode: color-burn;
+  object-fit: cover;
+  aspect-ratio: 365/273;
+}
+.image-4 {
+  width: 205.52px;
+  height: 280px;
+  position: absolute;
+  left: 210px;
+  top: 1858px;
+  object-fit: cover;
+  aspect-ratio: 205.52/280;
+}
+.ba-o-seco-en-espuma-sin-enjuague-para-perros-fragancia-bamb {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 156px;
+  top: 2162px;
+  width: 260px;
+  height: 40px;
+}
+.productos-recomendados-para-ti {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 408px;
+  top: 1717px;
+  width: 553px;
+  height: 37px;
+}
+.shampoo-canamor-rbol-de-te-230-ml-fragancia-aloe-vera {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 2162px;
+  width: 260px;
+  height: 40px;
+}
+.image-7 {
+  width: 108.29px;
+  height: 282px;
+  position: absolute;
+  left: 658px;
+  top: 1858px;
+  object-fit: cover;
+  aspect-ratio: 108.29/282;
+}
+.collar-feromonas-gato-calmante {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 961px;
+  top: 2162px;
+  width: 260px;
+  height: 40px;
+}
+.image-8 {
+  width: 278.62px;
+  height: 282px;
+  position: absolute;
+  left: 956px;
+  top: 1858px;
+  object-fit: cover;
+  aspect-ratio: 278.62/282;
+}
+.snack-cremoso-para-gato-inaba-churu-caja-at-n-280-gr {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 156px;
+  top: 2738px;
+  width: 260px;
+  height: 40px;
+}
+.en-3-cuotas-de-20-633-con-0-inter-s-61-900 {
+  text-align: left;
+  position: absolute;
+  left: 156px;
+  top: 2799px;
+  width: 306px;
+  height: 45px;
+}
+.en-3-cuotas-de-20-633-con-0-inter-s-61-900-span {
+  color: #000000;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-20-633-con-0-inter-s-61-900-span2 {
+  color: #09ba00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-20-633-con-0-inter-s-61-900-span3 {
+  color: #000000;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.en-12-cuotas-de-47-771-con-0-inter-s-573-247 {
+  text-align: left;
+  position: absolute;
+  left: 156px;
+  top: 3321px;
+  width: 321px;
+  height: 56px;
+}
+.en-12-cuotas-de-47-771-con-0-inter-s-573-247-span {
+  color: #000000;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-12-cuotas-de-47-771-con-0-inter-s-573-247-span2 {
+  color: #0dff00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-12-cuotas-de-47-771-con-0-inter-s-573-247-span3 {
+  color: #09ba00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-12-cuotas-de-47-771-con-0-inter-s-573-247-span4 {
+  color: #000000;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+._24-off-31-900-24-244 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 578px;
+  top: 2801px;
+  width: 139px;
+  height: 45px;
+}
+._24-off-31-900-24-244-span {
+  font-family: "Montserrat-ExtraBoldItalic", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  font-style: italic;
+}
+._24-off-31-900-24-244-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+._24-off-31-900-24-244-span3 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: line-through;
+}
+._24-off-31-900-24-244-span4 {
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+._52-off-34-900-16-752 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 961px;
+  top: 2801px;
+  width: 156px;
+  height: 45px;
+}
+._52-off-34-900-16-752-span {
+  font-family: "Montserrat-ExtraBoldItalic", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  font-style: italic;
+}
+._52-off-34-900-16-752-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+._52-off-34-900-16-752-span3 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: line-through;
+}
+._52-off-34-900-16-752-span4 {
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.sera-raffy-p-nature-55-gr-comida-flotante-tortugas-acu-ticas {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 2739px;
+  width: 260px;
+  height: 40px;
+}
+.collar-feromonas-gato-calmante2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 961px;
+  top: 2738px;
+  width: 260px;
+  height: 40px;
+}
+.image-16 {
+  width: 271.28px;
+  height: 282px;
+  position: absolute;
+  left: 144px;
+  top: 2435px;
+  object-fit: cover;
+  aspect-ratio: 271.28/282;
+}
+.image-17 {
+  width: 152.84px;
+  height: 282px;
+  position: absolute;
+  left: 630px;
+  top: 2435px;
+  object-fit: cover;
+  aspect-ratio: 152.84/282;
+}
+.image-18 {
+  width: 206.42px;
+  height: 282px;
+  position: absolute;
+  left: 979px;
+  top: 2435px;
+  object-fit: cover;
+  aspect-ratio: 206.42/282;
+}
+._24-eggs-automatic-intelligent-incubator-incubator {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 156px;
+  top: 3263px;
+  width: 260px;
+  height: 40px;
+}
+.en-3-cuotas-de-32-933-con-0-inter-s-98-800 {
+  text-align: left;
+  position: absolute;
+  left: 578px;
+  top: 3321px;
+  width: 321px;
+  height: 45px;
+}
+.en-3-cuotas-de-32-933-con-0-inter-s-98-800-span {
+  color: #000000;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-32-933-con-0-inter-s-98-800-span2 {
+  color: #09ba00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-32-933-con-0-inter-s-98-800-span3 {
+  color: #000000;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+._3-off-134-900-130-853 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 961px;
+  top: 3321px;
+  width: 321px;
+  height: 45px;
+}
+._3-off-134-900-130-853-span {
+  font-family: "Montserrat-ExtraBoldItalic", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  font-style: italic;
+}
+._3-off-134-900-130-853-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+._3-off-134-900-130-853-span3 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: line-through;
+}
+._3-off-134-900-130-853-span4 {
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.semillas-de-mijo-blanco-arroba {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 3262px;
+  width: 260px;
+  height: 40px;
+}
+.comida-completa-para-conejos-kaytee-timothy-4-5-lb {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 961px;
+  top: 3259px;
+  width: 260px;
+  height: 40px;
+}
+.set-de-arnes-y-correa-para-conejo-ajustable-naranja {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 156px;
+  top: 3839px;
+  width: 260px;
+  height: 40px;
+}
+.en-3-cuotas-de-43-333-con-0-inter-s-130-000 {
+  text-align: left;
+  position: absolute;
+  left: 156px;
+  top: 3894px;
+}
+.en-3-cuotas-de-43-333-con-0-inter-s-130-000-span {
+  color: #000000;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-43-333-con-0-inter-s-130-000-span2 {
+  color: #0dff00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-43-333-con-0-inter-s-130-000-span3 {
+  color: #09ba00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-43-333-con-0-inter-s-130-000-span4 {
+  color: #000000;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.en-3-cuotas-de-52-000-con-0-inter-s-156-000 {
+  text-align: left;
+  position: absolute;
+  left: 577px;
+  top: 3894px;
+}
+.en-3-cuotas-de-52-000-con-0-inter-s-156-000-span {
+  color: #000000;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-52-000-con-0-inter-s-156-000-span2 {
+  color: #0dff00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-52-000-con-0-inter-s-156-000-span3 {
+  color: #09ba00;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.en-3-cuotas-de-52-000-con-0-inter-s-156-000-span4 {
+  color: #000000;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.moina-macrocopa-esterilizada-para-alimentar-peces-peque-os {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 3833px;
+  width: 260px;
+  height: 40px;
+}
+.image-31 {
+  width: 310.23px;
+  height: 188px;
+  position: absolute;
+  left: 142px;
+  top: 3020px;
+  object-fit: cover;
+  aspect-ratio: 310.23/188;
+}
+.image-32 {
+  width: 249.48px;
+  height: 242px;
+  position: absolute;
+  left: 588px;
+  top: 2993px;
+  object-fit: cover;
+  aspect-ratio: 249.48/242;
+}
+.image-33 {
+  width: 153.43px;
+  height: 242px;
+  position: absolute;
+  left: 1002px;
+  top: 2993px;
+  object-fit: cover;
+  aspect-ratio: 153.43/242;
+}
+.image-34 {
+  width: 303.88px;
+  height: 282px;
+  position: absolute;
+  left: 136px;
+  top: 3532px;
+  object-fit: cover;
+  aspect-ratio: 303.88/282;
+}
+.image-35 {
+  width: 202.48px;
+  height: 282px;
+  position: absolute;
+  left: 597px;
+  top: 3532px;
+  object-fit: cover;
+  aspect-ratio: 202.48/282;
+}
+.maxresdefault {
+  border-radius: 45px;
+  width: 1169px;
+  height: 419px;
+  position: absolute;
+  left: 95px;
+  top: 4234px;
+  object-fit: cover;
+}
+.image7 {
+  border-radius: 45px;
+  width: 377px;
+  height: 364px;
+  position: absolute;
+  left: 95px;
+  top: 4684px;
+  object-fit: cover;
+}
+.blog-y-consejos-de-cuidado-animal {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 112px;
+  top: 4395px;
+  width: 654px;
+}
+.image8 {
+  border-radius: 45px;
+  width: 377px;
+  height: 364px;
+  position: absolute;
+  left: 496px;
+  top: 4684px;
+  object-fit: cover;
+}
+.image9 {
+  border-radius: 45px;
+  width: 377px;
+  height: 364px;
+  position: absolute;
+  left: 887px;
+  top: 4684px;
+  object-fit: cover;
+}
+.ellipse-1 {
+  background: #7d7b7b;
+  border-radius: 50%;
+  width: 27px;
+  height: 26px;
+  position: absolute;
+  left: 700px;
+  top: 4059px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 27px;
+  height: 26px;
+  position: absolute;
+  left: 733px;
+  top: 4059px;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 27px;
+  height: 26px;
+  position: absolute;
+  left: 667px;
+  top: 4059px;
+}
+.como-ba-ar-a-tu-gato-sin-estres {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 180px;
+  top: 5079px;
+}
+.consejos-practicos-para-un-ba-o-relajante-y-sin-traumas {
+  color: #000000;
+  text-align: justified;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 132px;
+  top: 5149px;
+  width: 304px;
+}
+.como-hidratar-a-tu-mascota-en-d-as-colurosos {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 503px;
+  top: 5079px;
+  width: 354px;
+}
+.el-calor-puede-afectar-a-perros-gatos-y-otras-especies {
+  color: #000000;
+  text-align: justified;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 533px;
+  top: 5149px;
+  width: 304px;
+}
+.espacios-frescos-y-seguros-para-aves-y-roedores {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 899px;
+  top: 5080px;
+  width: 354px;
+}
+.los-animales-peque-os-como-periquitos-o-hamsters-son-muy-sensibles-al-calor {
+  color: #000000;
+  text-align: justified;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 929px;
+  top: 5150px;
+  width: 304px;
+}
+.rectangle-25 {
+  background: #ffbc5d;
+  width: 1370px;
+  height: 576px;
+  position: absolute;
+  left: 0px;
+  top: 6134px;
+}
+.rectangle-26 {
+  background: #f4e9d9;
+  border-radius: 67px;
+  width: 401px;
+  height: 323px;
+  position: absolute;
+  left: 132px;
+  top: 5998px;
+}
+.image-362 {
+  border-radius: 1px;
+  width: 350px;
+  height: 257px;
+  position: absolute;
+  left: 158px;
+  top: 6027px;
+  object-fit: cover;
+  aspect-ratio: 350/257;
+}
+.image-37 {
+  width: 239px;
+  height: 231px;
+  position: absolute;
+  left: 1131px;
+  top: 6321px;
+  object-fit: cover;
+  aspect-ratio: 239/231;
+}
+.rectangle-27 {
+  background: #d9d9d9;
+  width: 1370px;
+  height: 974px;
+  position: absolute;
+  left: 1600px;
+  top: 0px;
+}
+.image-39 {
+  width: 661px;
+  height: 175px;
+  position: absolute;
+  left: 24px;
+  top: 6361px;
+  object-fit: cover;
+  aspect-ratio: 661/175;
+}
+.rectangle-28 {
+  background: #a05021;
+  width: 1370px;
+  height: 147px;
+  position: absolute;
+  left: 0px;
+  top: 6563px;
+}
+._2025-market-guaypet-todos-los-derechos-reservados {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 357px;
+  top: 6622px;
+}
+.enlaces {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 735px;
+  top: 6194px;
+}
+.sigamos-conectados {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 964px;
+  top: 6194px;
+}
+.inicio-nosotros-gatos-perros-peces-aves {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 735px;
+  top: 6255px;
+  width: 127px;
+  height: 203px;
+}
+.guaypet-gmail-com {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 964px;
+  top: 6255px;
+}
+._57-3123456789 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 964px;
+  top: 6298px;
+}
+.frame-6 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 275px;
+  height: 56px;
+  position: absolute;
+  left: 156px;
+  top: 2288px;
+  overflow: hidden;
+}
+.image-5 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 334px;
+  top: 2293px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 214px;
+  top: 2298px;
+  width: 110px;
+  height: 33px;
+}
+.frame-7 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 278px;
+  height: 56px;
+  position: absolute;
+  left: 577px;
+  top: 2288px;
+  overflow: hidden;
+}
+.image-6 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 772px;
+  top: 2293px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar2 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 643px;
+  top: 2298px;
+  width: 134px;
+  height: 35px;
+}
+.frame-8 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 274px;
+  height: 56px;
+  position: absolute;
+  left: 961px;
+  top: 2288px;
+  overflow: hidden;
+}
+.image-9 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1139px;
+  top: 2293px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar3 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 1020px;
+  top: 2298px;
+  width: 147px;
+  height: 32px;
+}
+.frame-10 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 285px;
+  height: 56px;
+  position: absolute;
+  left: 156px;
+  top: 2865px;
+  overflow: hidden;
+}
+.image-11 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 354px;
+  top: 2870px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar4 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 233px;
+  top: 2876px;
+  width: 157px;
+  height: 34px;
+}
+.frame-11 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 283px;
+  height: 56px;
+  position: absolute;
+  left: 554px;
+  top: 2865px;
+  overflow: hidden;
+}
+.image-12 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 732px;
+  top: 2870px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar5 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 615px;
+  top: 2875px;
+  width: 123px;
+  height: 37px;
+}
+.frame-12 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 283px;
+  height: 56px;
+  position: absolute;
+  left: 945px;
+  top: 2865px;
+  overflow: hidden;
+}
+.image-15 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1127px;
+  top: 2870px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar6 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 1011px;
+  top: 2875px;
+  width: 130px;
+  height: 35px;
+}
+.frame-13 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 283px;
+  height: 56px;
+  position: absolute;
+  left: 157px;
+  top: 3385px;
+  overflow: hidden;
+}
+.image-20 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 354px;
+  top: 3390px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar7 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 226px;
+  top: 3395px;
+  width: 145px;
+  height: 37px;
+}
+.frame-132 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 283px;
+  height: 56px;
+  position: absolute;
+  left: 578px;
+  top: 3385px;
+  overflow: hidden;
+}
+.image-21 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 759px;
+  top: 3390px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar8 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 639px;
+  top: 3395px;
+  width: 123px;
+  height: 36px;
+}
+.frame-15 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 283px;
+  height: 56px;
+  position: absolute;
+  left: 947px;
+  top: 3385px;
+  overflow: hidden;
+}
+.image-24 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1122px;
+  top: 3390px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar9 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 1001px;
+  top: 3395px;
+  width: 126px;
+  height: 38px;
+}
+.frame-16 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 284px;
+  height: 56px;
+  position: absolute;
+  left: 136px;
+  top: 3962px;
+  overflow: hidden;
+}
+.image-25 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 324px;
+  top: 3968px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar10 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 200px;
+  top: 3973px;
+  width: 123px;
+  height: 34px;
+}
+.image-27 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1122px;
+  top: 3968px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-18 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 283px;
+  height: 56px;
+  position: absolute;
+  left: 567px;
+  top: 3962px;
+  overflow: hidden;
+}
+.image-26 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 747px;
+  top: 3968px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar11 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 632px;
+  top: 3973px;
+  width: 132px;
+  height: 33px;
+}
+.frame-17 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 283px;
+  height: 56px;
+  position: absolute;
+  left: 949px;
+  top: 3962px;
+  overflow: hidden;
+}
+.image-402 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1122px;
+  top: 3968px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.agregar12 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 1006px;
+  top: 3972px;
+  width: 140px;
+  height: 32px;
+}
+.frame-19 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 261px;
+  height: 43px;
+  position: absolute;
+  left: 153px;
+  top: 5210px;
+  overflow: hidden;
+}
+.leer-m-s {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 221px;
+  top: 5215px;
+  width: 157px;
+  height: 33px;
+}
+.frame-20 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 259px;
+  height: 43px;
+  position: absolute;
+  left: 563px;
+  top: 5211px;
+  overflow: hidden;
+}
+.leer-m-s2 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 631px;
+  top: 5218px;
+  width: 199px;
+  height: 36px;
+}
+.frame-21 {
+  background: #ff6200;
+  border-radius: 100px;
+  width: 259px;
+  height: 43px;
+  position: absolute;
+  left: 955px;
+  top: 5211px;
+  overflow: hidden;
+}
+.leer-m-s3 {
+  color: #ffffff;
+  text-align: justified;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  position: absolute;
+  left: 1021px;
+  top: 5217px;
+  width: 194px;
+  height: 28px;
+}
+.imagen-de-whats-app-2025-05-20-a-las-22-52-30-89-aef-1-c-9-1 {
+  width: 475px;
+  height: 476px;
+  position: absolute;
+  left: 1466.21px;
+  top: 5414.13px;
+  transform-origin: 0 0;
+  transform: rotate(-0.192deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 475/476;
+}
+._6-off-17-789-16-721 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 961px;
+  top: 3894px;
+}
+._6-off-17-789-16-721-span {
+  font-family: "Montserrat-ExtraBoldItalic", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  font-style: italic;
+}
+._6-off-17-789-16-721-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+._6-off-17-789-16-721-span3 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: line-through;
+}
+._6-off-17-789-16-721-span4 {
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.collar-feromonas-perro-calmante {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 961px;
+  top: 3829px;
+  width: 260px;
+  height: 40px;
+}
+.image-52 {
+  width: 348px;
+  height: 282px;
+  position: absolute;
+  left: 899px;
+  top: 3532px;
+  object-fit: cover;
+  aspect-ratio: 348/282;
+}
+.frame-29 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1169px;
+  position: absolute;
+  left: 100px;
+  top: 5466px;
+  overflow-x: auto;
+}
+.frame-26 {
+  background: #ffffff;
+  border-radius: 45px;
+  flex-shrink: 0;
+  width: 424px;
+  height: 424px;
+  position: relative;
+  overflow: hidden;
+}
+.image-41 {
+  width: 424px;
+  height: 424px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-42 {
+  width: 426px;
+  height: 426px;
+  position: absolute;
+  left: 0px;
+  top: 78px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+._20-off-24-900-19-920 {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 54px;
+  top: 341px;
+}
+._20-off-24-900-19-920-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+._20-off-24-900-19-920-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: line-through;
+}
+._20-off-24-900-19-920-span3 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.collar-indigena-para-perro {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 39px;
+  top: 301px;
+  width: 346px;
+  height: 32px;
+}
+.frame-27 {
+  background: #ffffff;
+  border-radius: 45px;
+  flex-shrink: 0;
+  width: 424px;
+  height: 424px;
+  position: relative;
+  overflow: hidden;
+}
+.image10 {
+  width: 424px;
+  height: 424px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+._35-off-15-600-10-140 {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 54px;
+  top: 341px;
+}
+._35-off-15-600-10-140-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+._35-off-15-600-10-140-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: line-through;
+}
+._35-off-15-600-10-140-span3 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.collar-indigena-para-gato {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 39px;
+  top: 301px;
+  width: 346px;
+  height: 32px;
+}
+.frame-28 {
+  background: #ffffff;
+  border-radius: 45px;
+  flex-shrink: 0;
+  width: 424px;
+  height: 424px;
+  position: relative;
+  overflow: hidden;
+}
+.image-53 {
+  width: 642px;
+  height: 428px;
+  position: absolute;
+  left: -122px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+._10-off-10-499-9-449 {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 54px;
+  top: 341px;
+}
+._10-off-10-499-9-449-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+._10-off-10-499-9-449-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: line-through;
+}
+._10-off-10-499-9-449-span3 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.comida-para-pajaro {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 39px;
+  top: 301px;
+  width: 346px;
+  height: 32px;
+}
